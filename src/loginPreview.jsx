@@ -13,7 +13,7 @@ function LoginPreview() {
     };
 
     return (
-        <div class="Text">
+        <div className="Text">
             <input
                 type="text"
                 placeholder="Username"

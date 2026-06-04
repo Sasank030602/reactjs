@@ -5,7 +5,7 @@ function LiveNameDisplay() {
   const [name, setName] = useState("");
 
   return (
-    <div class="Text">
+    <div className="Text">
       <input
         type="text"
         placeholder="Enter your name"

@@ -5,7 +5,7 @@ function CharacterCounter() {
   const [text, setText] = useState("");
 
   return (
-    <div class="Text">
+    <div className="Text">
       <input
         type="text"
         placeholder="Type something"

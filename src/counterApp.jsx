@@ -5,7 +5,7 @@ function CounterApp() {
   const [count, setCount] = useState(0);
 
   return (
-    <div class="Text">
+    <div className="Text">
       <h2>Count: {count}</h2>
 
       <div className="button-group">
